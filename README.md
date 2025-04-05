@@ -1,1 +1,1 @@
-# QuickSort-Algorytm
+# QuickSort-Algorithm
